@@ -2,6 +2,7 @@ import 'package:test/test.dart';
 import 'package:testing_app/models/favorites.dart';
 
 void main() {
+  // Testing group
   group('Testing App Provider', () {
     var favorites = Favorites();
 
